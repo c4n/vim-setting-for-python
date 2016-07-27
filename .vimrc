@@ -1,4 +1,4 @@
-Qset nocompatible              " required
+set nocompatible              " required
 filetype off                  " required
 
 set nu
